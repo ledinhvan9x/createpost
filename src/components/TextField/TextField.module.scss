@@ -1,0 +1,14 @@
+.custom {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+input.form-control, input.form-control:focus {
+  background: #F0F0FF;
+}
+
+.error {
+  position: absolute;
+  color: red;
+  font-size: 0.8rem;
+}
